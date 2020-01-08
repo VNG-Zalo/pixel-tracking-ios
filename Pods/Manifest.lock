@@ -1,0 +1,18 @@
+PODS:
+  - ZaloSDK/Core (2.4.1125.3)
+  - ZaloSDK/Pixel (2.4.1125.3):
+    - ZaloSDK/Core
+
+DEPENDENCIES:
+  - ZaloSDK/Pixel
+
+SPEC REPOS:
+  trunk:
+    - ZaloSDK
+
+SPEC CHECKSUMS:
+  ZaloSDK: 1b88b29ca6a00bac801a1271c41272789850c335
+
+PODFILE CHECKSUM: 7ac4ab70fd0be18d195b01c426bcbfeceebb504d
+
+COCOAPODS: 1.8.3
