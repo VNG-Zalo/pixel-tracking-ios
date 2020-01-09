@@ -26,7 +26,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [ZDKLogManager setLogLevel:ZDKLogVerbose];
-    self.tracker = [ZPTracker newInstanceWithPixelId:6486531153301779475L];
+    self.tracker = [ZPTracker newInstanceWithPixelId:6342418164282734099L];
 }
 
 - (IBAction)didTouchSubmitButton:(id)sender {
